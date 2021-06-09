@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/DBZ-Memory-Game/static/css/main.03504f20.chunk.css",
-    "main.js": "/DBZ-Memory-Game/static/js/main.8d60b5f1.chunk.js",
-    "main.js.map": "/DBZ-Memory-Game/static/js/main.8d60b5f1.chunk.js.map",
+    "main.js": "/DBZ-Memory-Game/static/js/main.4a9c27fe.chunk.js",
+    "main.js.map": "/DBZ-Memory-Game/static/js/main.4a9c27fe.chunk.js.map",
     "runtime-main.js": "/DBZ-Memory-Game/static/js/runtime-main.90b33440.js",
     "runtime-main.js.map": "/DBZ-Memory-Game/static/js/runtime-main.90b33440.js.map",
     "static/js/2.42c88f8f.chunk.js": "/DBZ-Memory-Game/static/js/2.42c88f8f.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.90b33440.js",
     "static/js/2.42c88f8f.chunk.js",
     "static/css/main.03504f20.chunk.css",
-    "static/js/main.8d60b5f1.chunk.js"
+    "static/js/main.4a9c27fe.chunk.js"
   ]
 }
