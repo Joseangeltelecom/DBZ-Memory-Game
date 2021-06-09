@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "clicked" : false,
+        "name": "Gohan",
+        "image": "https://media.giphy.com/media/6BXC2QXk4utJm/giphy.gif"
+      
+      },
+
+      {
+        "id": 2,
+        "clicked" : false,
+        "name": "Vegueta",
+        "image": "https://media.giphy.com/media/pz1s2IpdQh86k/giphy.gif"
+      
+      },
+
+      {
+        "id": 3,
+        "clicked" : false,
+        "name": "Bardock",
+        "image": "https://media.giphy.com/media/OVEWsTzreTj2M/giphy.gif"
+  
+      },
+
+      {
+        "id": 4,
+        "clicked" : false,
+        "name": "Veguetto",
+        "image": "https://media.giphy.com/media/12wsnLPJcC6o92/giphy.gif"
+      
+      },
+
+      {
+        "id": 5,
+        "clicked" : false,
+        "name": "Goku",
+        "image": "https://media.giphy.com/media/Dh9jqNm8YcGVG/giphy.gif"
+ 
+      },
+
+      {
+        "id": 6,
+        "clicked" : false,
+        "name": "Majin Boo",
+        "image": "https://media.giphy.com/media/yIl6tNlJRS3OcOOh03/giphy.gif"
+   
+      },
+
+      {
+        "id": 7,
+        "clicked" : false,
+        "name": "Tenshinhan",
+        "image": "https://media.giphy.com/media/EzrGcye9OAbVkDXuyF/giphy.gif"
+     
+      },
+
+      {
+        "id": 8,
+        "clicked" : false,
+        "name": "Cell",
+        "image": "https://media.giphy.com/media/EzxsmkHR24mTS/giphy.gif"
+        
+      },
+
+      {
+        "id": 9,
+        "clicked" : false,
+        "name": "Mr.Satán",
+        "image": "https://media.giphy.com/media/xQoVBf3q0JEHs1CAtB/giphy.gif"
+     
+      },
+
+      {
+        "id": 10,
+        "clicked" : false,
+        "name": "Freezer",
+        "image": "https://media.giphy.com/media/5ewkIzbxKMadO/giphy.gif"
+       
+      },
+
+      {
+        "id": 11,
+        "clicked" : false,
+        "name": "Trunks",
+        "image": "https://media.giphy.com/media/XVq3bOamqeRlC/giphy.gif"
+     
+      },
+
+      {
+        "id": 12,
+        "clicked" : false,
+        "name": "Goten",
+        "image": "https://media.giphy.com/media/w6JyQiYum7Qbu/giphy.gif"
+       
+      }
+]
+
+
+

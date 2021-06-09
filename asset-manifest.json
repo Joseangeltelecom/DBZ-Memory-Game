@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/DBZ-Memory-Game/static/css/main.ffa0c8fc.chunk.css",
+    "main.js": "/DBZ-Memory-Game/static/js/main.5bbc2f1b.chunk.js",
+    "main.js.map": "/DBZ-Memory-Game/static/js/main.5bbc2f1b.chunk.js.map",
+    "runtime-main.js": "/DBZ-Memory-Game/static/js/runtime-main.90b33440.js",
+    "runtime-main.js.map": "/DBZ-Memory-Game/static/js/runtime-main.90b33440.js.map",
+    "static/js/2.42c88f8f.chunk.js": "/DBZ-Memory-Game/static/js/2.42c88f8f.chunk.js",
+    "static/js/2.42c88f8f.chunk.js.map": "/DBZ-Memory-Game/static/js/2.42c88f8f.chunk.js.map",
+    "index.html": "/DBZ-Memory-Game/index.html",
+    "static/css/main.ffa0c8fc.chunk.css.map": "/DBZ-Memory-Game/static/css/main.ffa0c8fc.chunk.css.map",
+    "static/js/2.42c88f8f.chunk.js.LICENSE.txt": "/DBZ-Memory-Game/static/js/2.42c88f8f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90b33440.js",
+    "static/js/2.42c88f8f.chunk.js",
+    "static/css/main.ffa0c8fc.chunk.css",
+    "static/js/main.5bbc2f1b.chunk.js"
+  ]
+}
